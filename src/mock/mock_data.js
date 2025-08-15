@@ -31,17 +31,28 @@ export const mockData = {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "description": "代码托管平台"
         },
         {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "description": "curl命令转换工具"
+        },
+        {
+          "id": "site-1755268026066",
+          "name": "百度",
+          "url": "https://baidu.com",
+          "description": "百度一下"
         }
       ]
+    },
+    {
+      "id": "category-1755268306700",
+      "icon": "👥到😋",
+      "name": "达到",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航"
